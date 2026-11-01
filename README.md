@@ -9,7 +9,7 @@ El `MainViewModel` tiene una `ObservableCollection<Tarea>` con las tareas y las 
 La ventana usa ese ViewModel como `DataContext` y todo va con `{Binding}`: formulario, barra de progreso, lista y barra de estado. En el code-behind solo hay los `Click` de los botones, que llaman a métodos del ViewModel.
 
 ## Captura final
-
+![Captura final](Images/Captura%20final%20App.png)
 
 
 ## Auditoría con IA
