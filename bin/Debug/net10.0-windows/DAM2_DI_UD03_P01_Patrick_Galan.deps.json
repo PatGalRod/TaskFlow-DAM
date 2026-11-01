@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DAM2_DI_UD03_P01_Patrick_Galan/1.0.0": {
+        "runtime": {
+          "DAM2_DI_UD03_P01_Patrick_Galan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAM2_DI_UD03_P01_Patrick_Galan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DAM2_DI_UD03_P01_Patrick_Galan</id>
+    <version>1.0.0</version>
+    <authors>DAM2_DI_UD03_P01_Patrick_Galan</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ksiqu\Dropbox\2º DAM\04 Desarrollo de interfaces\03 Usabilidad\Ejercicios\DAM2_DI_UD03_P01_Patrick_Galán\DAM2_DI_UD03_P01_Patrick_Galan\bin\Debug\net10.0-windows\DAM2_DI_UD03_P01_Patrick_Galan.runtimeconfig.json" target="lib\net10.0-windows7.0\DAM2_DI_UD03_P01_Patrick_Galan.runtimeconfig.json" />
+    <file src="C:\Users\Ksiqu\Dropbox\2º DAM\04 Desarrollo de interfaces\03 Usabilidad\Ejercicios\DAM2_DI_UD03_P01_Patrick_Galán\DAM2_DI_UD03_P01_Patrick_Galan\bin\Debug\net10.0-windows\DAM2_DI_UD03_P01_Patrick_Galan.dll" target="lib\net10.0-windows7.0\DAM2_DI_UD03_P01_Patrick_Galan.dll" />
+  </files>
+</package>

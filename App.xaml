@@ -1,0 +1,9 @@
+﻿<Application x:Class="DAM2_DI_UD03_P01_Patrick_Galan.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DAM2_DI_UD03_P01_Patrick_Galan"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
