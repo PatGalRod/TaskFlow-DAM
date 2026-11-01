@@ -10,7 +10,7 @@ La ventana usa ese ViewModel como `DataContext` y todo va con `{Binding}`: formu
 
 ## Captura final
 
-![Captura final](Images/Captura%20final%20App.png)
+
 
 ## Auditoría con IA
 
